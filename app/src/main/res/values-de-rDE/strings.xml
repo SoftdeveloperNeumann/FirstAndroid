@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstAndroid</string>
+    <string name="btn_copy">Kopieren</string>
+    <string name="call">Hallo Welt!</string>
+    <string name="et_input">Eingabe</string>
+</resources>
